@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm MOHIT</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-0987&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-0987" /> </p>
-
 - 🌱 I’m currently learning **Courses**
 
 - 📫 How to reach me **panigrahimohith2017@gmail.com**
