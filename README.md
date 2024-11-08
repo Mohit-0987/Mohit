@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MOHIT</h1>
+<h1 align="center">Hi 👋, I'm MOHIT KUMAR</h1>
 <h3 align="center">Student</h3>
 
 - 🌱 I’m currently learning **Courses**
